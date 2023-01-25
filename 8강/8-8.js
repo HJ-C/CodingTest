@@ -1,4 +1,4 @@
-// DFS vs For문
+// DFS vs For문, 중복순열
 
 function solution(n, m){
     let answer=[];

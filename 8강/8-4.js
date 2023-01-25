@@ -1,4 +1,4 @@
-//이진트리 - DFS
+//이진트리 - DFS (부분집합)
 
 function solution(n){
     let answer=[];
